@@ -17,7 +17,7 @@ This portfolio is intended for learning purposes and demonstrates my SQL experie
 * See my queries [here](./OVO%20Technical%20Test%20-%20Business%20Intelligence%20Internship%202021/query.sql)
 * See my analysis and finding in this [report file](./OVO%20Technical%20Test%20-%20Business%20Intelligence%20Internship%202021/OVO%20Technical%20Test%20Report%20by%20Iqrar%20Agalosi%20Nureyza.pdf)
 
-### 3. [FARMAKAMI: A simple web-DBMS](./FARMAKAMI-TK-BASDAT-56/)
+### 3. [FARMAKAMI: A simple web-DBMS](https://github.com/Iqrar99/FARMAKAMI-TK-BASDAT-56)
 #### A database management system for database course group project. The database is integrated with Django framework and deployed on Heroku. The database system can be used by end-user for CRUD purposes.
 * Dataset source: Database (CSGE602070) course at Fasilkom UI
 * Language and tools used for project: [PostgreSQL](https://www.postgresql.org/), Python ([Django](https://www.djangoproject.com/)), HTML+CSS, [Heroku](https://www.heroku.com/)
